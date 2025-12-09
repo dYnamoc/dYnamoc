@@ -35,26 +35,6 @@ I enjoy:
 
 ---
 
-## 💼 Experience
-
-### buHost — Webhosting & VPS  
-**Web Support & Internal Tools Developer (2024–Present)**  
-
-- Develop and integrate internal features for hosting control panels (**PHP, HTML/CSS/JS**).
-- Build automation scripts for backups, account provisioning, and on-demand restores.
-- Manage **Linux servers in production**: monitoring, debugging, optimization.
-- Work with **LXC/KVM & Virtualizor** to deploy and maintain VPS instances.
-- Write internal documentation for tools, workflows, and processes.
-
-### Online Multiplayer Server (Personal Project)  
-**Fullstack Developer & SysAdmin (2023–2024)**  
-
-- Created and maintained a multiplayer game server with **500+ active users**.
-- Designed custom automation tools, backup systems, and monitoring workflows.
-- Managed VPS infrastructure, databases, deployments, and performance.
-- Built admin utilities and tools for moderators and staff.
-
----
 
 ## 🚀 Featured Projects
 
